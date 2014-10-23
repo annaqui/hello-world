@@ -15,8 +15,9 @@ Most important thing I learnt was that you can use emoji :octocat: They're takin
 You can also fork other people's repositories and then they can choose whether or not to accept your changes.
 
 Finally, if you're writing about code, you can comment it like this:
-''''<h1>The title</h1>
-    <p>And a paragraph</p> 
-  ''''
+'''
+<h1>The title</h1>
+<p>And a paragraph</p> 
+  '''
 
 :+1:
