@@ -8,7 +8,7 @@ This is the first time I've used a branch. They seem to be useful as a way of ke
 You can also use markup in your files.
 
 And link to images with titles 
-! [A pygmy goat](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/13985_10152852939415209_3117340416019977245_n.jpg?oh=341b75c5f0f5788cf9c44836090f76cd&oe=54AE5DBE&__gda__=1420811767_475b54ee70f4581871d8a4fec150d04a)
+<img src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/13985_10152852939415209_3117340416019977245_n.jpg?oh=341b75c5f0f5788cf9c44836090f76cd&oe=54AE5DBE&__gda__=1420811767_475b54ee70f4581871d8a4fec150d04a" />
 
 
 Most important thing I learnt was that you can use emoji :octocat: They're taking over the internet.
